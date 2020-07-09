@@ -1,0 +1,86 @@
+body {
+    background: linear-gradient(45deg,rgb(2,0,36),#c2c2d6) ;
+}
+
+#heading {
+    text-align: center;
+    background: #c2c2d6;
+    padding: 20px;
+}
+
+#heading h1 {
+    font-size: 40px;
+}
+
+#heading p {
+    
+    font-size: 20px;
+    position: relative;
+    top: 30px;
+}
+
+#img {
+    text-align: center;
+    background: #e0e0eb;  
+}
+
+#picture {
+    width: 900px;
+    height: 600px;
+    padding-top: 20px;
+    border-radius: 20px;
+    border-top: 20px;
+    
+}
+
+#img p {
+    padding: 20px;
+    font-size: 20px;
+
+}
+
+#timeline {
+    text-align: center;
+    background: #e0e0eb;
+}
+
+#dates {
+    font-family: sans-serif;
+    background: #eaeeee;
+    border-radius: 5%;
+    margin: auto;
+    width: 50%;
+    padding: 40px;  
+}
+
+
+#dates li {
+    padding: 20px;
+    text-align: left;
+    
+}
+
+#quote p {
+    font-size: 20px;
+    font-family: monospace;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    padding: 10px;
+}
+
+#end-container {
+    text-align: center;
+    margin-top: 20px;
+    
+    background:  #c2c2d6;
+    
+}
+
+#end-container p {
+    font-size: 20px;
+    font-weight: bold;
+    position: relative;
+    height: 100px;
+
+}
